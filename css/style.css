@@ -586,7 +586,7 @@ body {
   padding-top: 42px;
   padding-left: 0px;
   padding-right: 0px;
-  padding-bottom: 20px;
+ 
 }
 .clints-secn .cl-1 {
   padding-top: 10px;
@@ -1291,3 +1291,49 @@ border-radius: inherit;
     margin-top: -58px;
   }
   }
+  @media only screen and (min-width: 390px) and (max-width: 844px) { 
+    .session-para h2 {
+    font-size: 0.99rem !important;
+  }
+  .warn-para h2 {
+    font-size: 1.12rem !important;
+  }
+  }
+  @media only screen and (min-width: 430px) and (max-width: 844px) { 
+    .thankyou-button a span{
+      color: rgb(255, 255, 255);
+      font-size: 30px;
+      letter-spacing: 0;
+      line-height: 100%;
+      font-family: "Bebas Neue", display;
+  }
+  .mmmnn {
+    margin-top: -32px;
+}
+.btnss-wrn {
+  margin-top: 52px !important;
+}
+  .thankyou-footer h2 {
+    letter-spacing: 0;
+    line-height: 140%;
+    font-size: 0.71rem;
+  }
+  .warn-para h2 {
+    font-size: 1.01rem !important;
+}
+.vdo-11 {
+  height: 576px;
+}
+  }
+  .thankyou-button a span{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 100%;
+    font-family: "Bebas Neue", display;
+}
+.thankyou-footer h2 {
+  letter-spacing: 0;
+  line-height: 140%;
+  font-size: 0.71rem;
+}
